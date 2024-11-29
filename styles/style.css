@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+}
+h1 {
+    text-align: center;
+    font-size: 45px;
+    margin-bottom: 40px;
+}
+
+#staryNight {
+    margin-left: 40px;
+    width: 520px;
+
+}
+
+#nightSky {
+    width: 500px;
+    height: 420px;
+    margin-bottom: 10px;
+}
+
+#headerStaryNight {
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+
+#paragraphStaryNight {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#listNightSky {
+    color: blue;
+    margin-bottom: 20px;
+}
+
+#buttonNightSky {
+    color: #CEA201;
+    background-color: white;
+    border: 2px #CEA201 solid;
+    font-size: 16px;
+    width: 120px;
+    height: 50px;
+}
+
+#buttonNightSky:hover {
+    background-color: #CEA201;
+    color: black;
+}
+
+#magicCreatures {
+    width: 600px;
+    margin-top: 60px;
+    margin-left: 40px;
+   
+}
+
+#magicHeader {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#magicP {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#howItWorks {
+    text-align: center;
+    color: green;
+    margin-bottom: 20px;
+}
+
+#magicList {
+    width: 460px;
+    margin-left: 80px;
+    color: red;
+    margin-bottom: 20px;
+}
+
+#magicList {
+    text-align: left;
+    list-style-type: none;
+    margin-top: 20px;
+}
+
+#listAndHeader {
+    background-color: #FFDEF0;
+    border: 4px purple solid;
+    height: 130px;
+    margin-bottom: 20px;
+}
+
+#whereWeSeeIt {
+    padding-left: 10px;
+}
+
+
+#li1, #li2, #li3 {
+    list-style-type: none;
+    color: #C27512;
+    padding-bottom: -5px;
+    padding-top: -10px;
+}
+
+#fireflies {
+    font-size: 1px;
+    padding-bottom: 50px;
+}
+
+#deepSea {
+    font-size: 30px;
+}
+
+#imgCircle1, #imgCircle2, #imgCircle3 {
+    display: inline;
+    padding-right: 10px;
+    padding-bottom: -10px;
+    padding-top: 10px;
+    padding-left: -7px;
+}
+
+#fish {
+    margin-bottom: 40px;
+    margin-right: 40px;
+}
+
+a {
+    text-align: right;
+    position: relative;
+    margin-left: 100px;
+    color: cyan;
+}
